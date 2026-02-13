@@ -1,8 +1,3 @@
-/**
- * Fal AI Inpainting – Qwen Image Edit.
- * @see document.doc (fal-ai/qwen-image-edit/inpaint)
- */
-
 export const FAL_INPAINTING_MODEL = 'fal-ai/qwen-image-edit/inpaint' as const
 
 export type FalImageSize =
